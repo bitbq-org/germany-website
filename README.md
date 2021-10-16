@@ -1,5 +1,7 @@
 # BitBQ.org [Offizielle Seite]
 
+[![BitBQ.org](https://raw.githubusercontent.com/bitbq-org/germany-website/main/main.png)](https://bitbq.org/?aff_sub3=github)
+
 Ein Team hochqualifizierter Computerexperten, die zuvor bei Google und Apple gearbeitet haben, hat das Trading-Start-up BitBQ.org gegründet. Sie haben in der IT- und Finanzwelt für Aufsehen gesorgt. BitBQ.org kann mit seinem einzigartigen Handelsalgorithmus jedem Benutzer hohe Gewinne bringen. Einfach durch den automatisierten Handel mit Bitcoin und Kryptowährungen. Für große Investitionen benötigt der Anwender weder Fachwissen noch Geld.
 
 👉 👉 👉 [Klicken Sie hier, um BitBQ zu besuchen](https://bitbq.org/?aff_sub3=github)
